@@ -1,6 +1,4 @@
-Hello potential ML6 colleague!
-
-If you are reading this, you are probably applying for a Machine Learning engineering job at ML6. This test will evaluate if you have the right skills for the job. The time needed to complete this challenge depends on your experience and can range from half a day to multiple tries over a week.
+If you are reading this, you are probably applying for a Machine Learning engineering job at X. This test will evaluate if you have the right skills for the job. The time needed to complete this challenge depends on your experience and can range from half a day to multiple tries over a week.
 
 In this test, you will try to classify Belgium draft beers. If you are able to complete this test in a decent way, you might soon be drinking one of these together with us.
 
@@ -94,9 +92,9 @@ Once you are able to execute the command above without errors, you can add us to
 * Click *Add*
 * Add `ml6-coding-challenge-evaluator@recruiting-220608.iam.gserviceaccount.com` as a member with the role *Project Owner*
 
-After you added us to your project you should fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScW_j-QmmqUo6W_yyUH2xovSQ5kcAF3HapNep5pk5nr-nXKwQ/viewform) so we are able to automatically evaluate your solution to the coding test. Once you've filled in the form you should receive an email with the results within 2 hours. We'll hope with you that your results are good enough to land an interview at ML6. If however you don't you can resubmit a new solution as many times as you want, so don't give up!
+After you added us to your project you should fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLScW_j-QmmqUo6W_yyUH2xovSQ5kcAF3HapNep5pk5nr-nXKwQ/viewform) so we are able to automatically evaluate your solution to the coding test. Once you've filled in the form you should receive an email with the results within 2 hours. We'll hope with you that your results are good enough to land an interview at X. If however you don't you can resubmit a new solution as many times as you want, so don't give up!
 
-If you are invited for an interview at ML6 afterwards, make sure to bring your laptop with a copy of the code you wrote, so you can explain your `model.py` file to us.
+If you are invited for an interview at X afterwards, make sure to bring your laptop with a copy of the code you wrote, so you can explain your `model.py` file to us.
 
 ### Taking down the deployed model
 
